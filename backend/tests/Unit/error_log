@@ -1,0 +1,4 @@
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/thedrex2/public_html/frontier-rewards/backend/tests/Unit/ExampleTest.php on line 7
+[20-Feb-2021 09:00:29 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/thedrex2/public_html/frontier-rewards/backend/tests/Unit/ExampleTest.php on line 7
+[20-Feb-2021 09:00:34 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/thedrex2/public_html/frontier-rewards/backend/tests/Unit/ExampleTest.php on line 7
+[20-Feb-2021 09:00:37 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/thedrex2/public_html/frontier-rewards/backend/tests/Unit/ExampleTest.php on line 7

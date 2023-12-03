@@ -1,0 +1,4 @@
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Providers/AuthServiceProvider.php on line 8
+[20-Feb-2021 09:00:29 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Providers/AuthServiceProvider.php on line 8
+[20-Feb-2021 09:00:39 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Providers/AuthServiceProvider.php on line 8
+[20-Feb-2021 09:00:43 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Providers/AuthServiceProvider.php on line 8

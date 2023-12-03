@@ -1,0 +1,32 @@
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php on line 18
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php on line 20
+[20-Feb-2021 09:00:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php on line 18
+[20-Feb-2021 09:00:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php on line 20
+[20-Feb-2021 09:00:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php on line 18
+[20-Feb-2021 09:00:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/services.php on line 18
+[20-Feb-2021 09:00:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php on line 20
+[20-Feb-2021 09:00:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/config/logging.php on line 20

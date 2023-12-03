@@ -1,0 +1,16 @@
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php on line 17
+[20-Feb-2021 09:00:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php on line 17
+[20-Feb-2021 09:00:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php on line 17
+[20-Feb-2021 09:00:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/thedrex2/public_html/frontier-rewards/backend/routes/console.php on line 17

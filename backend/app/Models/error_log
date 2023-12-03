@@ -1,0 +1,4 @@
+[20-Feb-2021 09:00:25 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Models/Product.php on line 8
+[20-Feb-2021 09:00:28 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Models/Product.php on line 8
+[20-Feb-2021 09:00:41 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Models/Product.php on line 8
+[20-Feb-2021 09:00:45 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/thedrex2/public_html/frontier-rewards/backend/app/Models/Product.php on line 8
